@@ -1,0 +1,33 @@
+Producto,Disponible,Ingredientes,Categoría,Precio Bs,Precio Cop,Precio USD,Variaciones,recomendaciones
+Hamburguesa Clásica,Sí,"Carne de res, pan, queso, lechuga, tomate, cebolla",Hamburguesas,5000000,100,2,"Carne , chorizo , pollo crispy",el pollo crispy es lo mejor
+Hamburguesa con Queso,Sí,"Carne de res, pan, queso cheddar, lechuga, tomate, cebolla",Hamburguesas,6000000,120,2024-05-02 00:00:00,"pechuga , doble huevo",comer carne es mejor que no
+Hamburguesa Bacon,Sí,"Carne de res, pan, queso, tocino, lechuga, tomate, cebolla",Hamburguesas,7000000,140,3,"Carne , chorizo",
+Hamburguesa Vegetariana,Sí,"Pan, hamburguesa vegetariana, lechuga, tomate, cebolla",Hamburguesas,6000000,120,2024-05-02 00:00:00,"chorizo , pollo crispy",
+Pizza Margarita,Sí,"Masa de pizza, salsa de tomate, mozzarella, albahaca",Pizzas,8000000,160,2024-05-03 00:00:00,no posee,
+Pizza Pepperoni,Sí,"Masa de pizza, salsa de tomate, mozzarella, pepperoni",Pizzas,9000000,180,4,no posee,
+Pizza Vegetariana,Sí,"Masa de pizza, salsa de tomate, mozzarella, vegetales variados",Pizzas,10000000,200,2024-05-04 00:00:00,no posee,una pizza para toda tu familia
+Pizza Hawaiana,Sí,"Masa de pizza, salsa de tomate, mozzarella, jamón, piña",Pizzas,11000000,220,5,no posee,
+Almuerzo Ejecutivo,Sí,"Carne a la plancha, arroz, ensalada, bebida",Almuerzos,12000000,240,5,"con sopa , sin sopa",
+Almuerzo Vegetariano,Sí,"Arroz, ensalada, pasta vegetariana, bebida",Almuerzos,10000000,200,2024-05-04 00:00:00,"con sopa , sin sopa",
+Desayuno Americano,Sí,"Huevos, pan, tocino, jamón, café",Desayunos,6000000,120,2024-05-02 00:00:00,"con arepa , sin arepa",
+Desayuno Criollo,Sí,"Arepas, queso, huevos, café",Desayunos,4000000,80,2024-05-01 00:00:00,"con arepa , sin arepa",
+Desayuno Vegetariano,Sí,"Arepas, queso, huevos revueltos con vegetales, café",Desayunos,5000000,100,2,"con arepa , sin arepa",
+Merienda Mixta,Sí,"Empanada, jugo, fruta",Meriendas,3000000,60,1,no posee,
+Merienda Saludable,Sí,"Yogurt con granola, fruta fresca",Meriendas,2000000,40,2,no posee,
+Carne Mechada,Sí,"Carne de res, cebolla, pimentón, salsa de tomate",Carnes,7000000,140,3,no posee,
+Pabellón Criollo,Sí,"Carne mechada, arroz, caraotas negras, tajadas",Pabellones,10000000,200,2024-05-04 00:00:00,no posee,
+Ensalada César,Sí,"Lechuga, pollo, crutones, queso parmesano",Ensaladas,5000000,100,2,no posee,
+Ensalada Caprese,Sí,"Tomate, mozzarella, albahaca",Ensaladas,4000000,80,2024-05-01 00:00:00,no posee,
+Ensalada Verde,Sí,"Lechuga, tomate, pepino, cebolla",Ensaladas,3000000,60,1,no posee,
+Pasta al Pesto,Sí,"Pasta, salsa pesto, queso parmesano",Pastas,6000000,120,2024-05-02 00:00:00,no posee,
+Pasta Boloñesa,Sí,"Pasta, salsa boloñesa, carne molida",Pastas,7000000,140,3,no posee,
+Lasagna,Sí,"Pasta, salsa boloñesa, ricotta, mozzarella",Pastas,8000000,140,3,no posee,
+Coca cola 1 litro,Si,producto privado no puedo responderte,Bebidas,800000,10,3,no posee,
+pepsi cola 1 litro,Si,producto privado no puedo responderte,Bebidas,700000,210,3,no posee,
+chinotto   1 litro,Si,producto privado no puedo responderte,Bebidas,600000,200,3,no posee,
+Coca cola 2 litro,Si,producto privado no puedo responderte,Bebidas,80000,120,3,no posee,
+pepsi cola 2 litro,Si,producto privado no puedo responderte,Bebidas,70000,110,3,no posee,
+chinotto   2 litro,Si,producto privado no puedo responderte,Bebidas,60000,100,3,no posee,
+Coca cola 200 minilitros,Si,producto privado no puedo responderte,Bebidas,8000,60,3,no posee,
+pepsi cola 200 minilitros,Si,producto privado no puedo responderte,Bebidas,7000,50,3,no posee,todo es mejor con una coca cola a tu mano
+chinotto   200 minilitros,Si,producto privado no puedo responderte,Bebidas,6000,40,3,no posee,

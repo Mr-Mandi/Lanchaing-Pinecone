@@ -1,0 +1,8 @@
+pypdf
+cohere
+tiktoken
+langchain~=0.1.9
+sentence_transformers
+openai
+pinecone-client
+python-dotenv
